@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "Fluig_DevStart"
+		}
+	],
+	"settings": {
+		"totvsLanguageServer.welcomePage": false,
+		"[advpl]": {
+			"files.encoding": "windows1252"
+		},
+		"totvsLanguageServer.askEncodingChange": false
+	}
+}
